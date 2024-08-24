@@ -6,7 +6,7 @@ print(x)
 x=np.arange(5)
 print(x)
 print("plaese give the dimension of array ",x.ndim)
-#make the program to line space function like use of diffrence in the program
+#make the program to line space function like use of in the program
 x=np.linspace(0,10,num=5)
 print(x)
 print("please give the dimension of the array =",x)
